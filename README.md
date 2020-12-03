@@ -1,4 +1,4 @@
 # gradebook
-c# fundamentals
+c#
 
 xunit for tests
