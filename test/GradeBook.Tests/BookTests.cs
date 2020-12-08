@@ -16,16 +16,18 @@ namespace GradeBook.Tests
 
 
           // Act 
-          var stats = book.GetStats();
+          var result = book.GetStats();
 
-          Console.WriteLine($"Max = {stats.High}");
-          Console.WriteLine($"Min = {stats.Low}");
-          Console.WriteLine($"Average = {stats.Average:N3}");
+          Console.WriteLine($"Max = {result.High}");
+          Console.WriteLine($"Min = {result.Low}");
+          Console.WriteLine($"Average = {result.Average:N3}");
+          Console.WriteLine($"Letter Grade = {result.Letter}");
 
           //Assert
-          Assert.Equal(85.7, stats.Average, 1);
-          Assert.Equal(90.5, stats.High, 1);
-          Assert.Equal(77.5, stats.Low, 1);
+          Assert.Equal(85.7, result.Average, 1);
+          Assert.Equal(90.5, result.High, 1);
+          Assert.Equal(77.5, result.Low, 1);
+          Assert.Equal('B', result.Letter);
         }
     }
 }

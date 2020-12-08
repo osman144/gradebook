@@ -87,6 +87,8 @@
 /Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.dll
+/Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.pdb
 /Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.csprojAssemblyReference.cache
 /Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.AssemblyInfoInputs.cache
 /Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.AssemblyInfo.cs
@@ -95,5 +97,3 @@
 /Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.dll
 /Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.pdb
 /Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.1/GradeBook.Tests.genruntimeconfig.cache
-/Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.dll
-/Users/salahosman/Desktop/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.1/GradeBook.pdb
